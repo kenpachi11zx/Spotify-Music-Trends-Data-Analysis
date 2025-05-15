@@ -78,4 +78,4 @@ python 5_most_streamed_songs.py
 ## 👨‍💻 Author
 
 **Sahil Islam**  
-B.Tech CSE — Data Analysis with Python Lab Project
+B.Tech CSE — Data Analytics using Python Laboratory Project
