@@ -75,7 +75,7 @@ python 5_most_streamed_songs.py
 - If any column is missing (like `streams` or `language`), the script will notify you.
 - Make sure column names in the dataset match those used in scripts.
 
-## 👨‍💻 Author
+## Author
 
 **Sahil Islam**  
 B.Tech CSE — Data Analytics using Python Laboratory Project
