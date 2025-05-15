@@ -1,9 +1,9 @@
 
-# Spotify Music Trends Data Analysis 🎵
+# Spotify Music Trends Data Analysis 
 
 This project analyzes Spotify song data to uncover trends in popularity, artist impact, genre preferences, language distribution, and streaming performance.
 
-## 📊 Dataset
+## Dataset
 
 - File: `spotify_music_data.csv`
 - Contents: Metadata for popular Spotify tracks including:
@@ -16,7 +16,7 @@ This project analyzes Spotify song data to uncover trends in popularity, artist 
 
 Make sure this file is placed in the project root directory.
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 Spotify-Music-Trends-Data-Analysis/
@@ -30,7 +30,7 @@ Spotify-Music-Trends-Data-Analysis/
 ├── README.md
 ```
 
-## 🧠 Python Scripts
+## Python Scripts
 
 ### 1. Top Songs by Popularity
 - File: `1_top_songs_by_popularity.py`
@@ -52,7 +52,7 @@ Spotify-Music-Trends-Data-Analysis/
 - File: `5_most_streamed_songs.py`
 - Lists the songs with the highest number of total streams.
 
-## ▶️ How to Run
+##  How to Run
 
 Make sure you have the required libraries:
 
@@ -70,7 +70,7 @@ python 4_language_distribution.py
 python 5_most_streamed_songs.py
 ```
 
-## 📌 Notes
+## Notes
 
 - If any column is missing (like `streams` or `language`), the script will notify you.
 - Make sure column names in the dataset match those used in scripts.
